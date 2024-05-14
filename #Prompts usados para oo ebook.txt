@@ -1,0 +1,16 @@
+#Prompts usados para a criação do ebook.
+
+#Crie um título de um ebook sobre o tema de SQL, o ebook é do nicho programação e o subnicho é SQL, o título deve ser épico e curto, e tenha uma temática informal no título, me liste 5 variações de títulos
+
+#Combine os dois títulos abaixo para gerar novos títulos poderosos
+"SQL Sagaz: A Arte Secreta da Manipulação de Dados!"
+"Desvendando SQL: Seu Passaporte para o Mundo dos Dados!"
+
+#Faça um texto para ebook com foco em SQL listando os principais comandos de manipulação de banco de dados com exemplos em códigos
+
+{REGRAS}
+> Explique sempre de uma maneira simples
+> Deixe o texto enxuto
+> Sempre traga exemplos de código em contextos reais
+> Sempre deixe um título sugestivo por tópico
+
